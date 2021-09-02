@@ -1,4 +1,4 @@
-<h1 align="center">
+<text align="center">
 <h1>Hi there is Rajkumar</h1>
 
 <img src="https://user-images.githubusercontent.com/78275158/131846419-b3150b91-9f10-40f1-9e47-5b36e0809e69.png"></img>
