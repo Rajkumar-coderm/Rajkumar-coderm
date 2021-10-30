@@ -13,9 +13,9 @@
 ✔ Callme: ***Rajkumar Gahane*** or ***TeamWorker*** 😊 <br>
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
-✔ 👨‍💻 All of my projects are available at [https://github.com/vishalmajumdar95](https://github.com/vishalmajumdar95)<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/vishalmajumdar95](https://github.com/Rajkumar-coderm)<br>
 <!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
-✔ 📫 How to reach me **vishalm20@gmail.com**<br>
+✔ 📫 How to reach me **rajkumar20@navgurukul.org**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
