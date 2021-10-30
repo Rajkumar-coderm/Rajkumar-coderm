@@ -13,7 +13,7 @@
 ✔ Callme: ***Rajkumar Gahane*** or ***TeamWorker*** 😊 <br>
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
-✔ 👨‍💻 All of my projects are available at [https://github.com/vishalmajumdar95](https://github.com/Rajkumar-coderm)<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/Rajkumar-coderm](https://github.com/Rajkumar-coderm)<br>
 <!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
 ✔ 📫 How to reach me **rajkumar20@navgurukul.org**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
