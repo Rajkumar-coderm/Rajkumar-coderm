@@ -72,13 +72,13 @@
       </a>
       <br>CSS
     </td>
-<!--     <td align="center" width="96">
+<td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
       </a>
       <br>React
-    </td> -->
-<!--     <td align="center" width="96">
+    </td> 
+<!--   <td align="center" width="96"> -->
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
       </a>
