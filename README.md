@@ -1,4 +1,4 @@
-<h1 color="blue"><s>Rajkumar-coder</s></h1>
+<h1 align="center"><s>Rajkumar-coder</s></h1>
 <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=Rajkumar-coderm&label=Profile%20views&color=0e75b6&style=flat" alt="Rajkumar-coderm" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
