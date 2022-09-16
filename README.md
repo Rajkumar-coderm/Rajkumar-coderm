@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+        <img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" width="40"/>
       </a>
       <br>NodeJS
     </td>
