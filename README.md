@@ -63,7 +63,7 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" width="40"/>
+        <img src="https://p.kindpng.com/picc/s/23-237381_java-html-language-logo-png-transparent-png.png" width="40"/>
       </a>
       <br>HTML
     </td>
@@ -75,15 +75,15 @@
     </td>
 <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40"/>
       </a>
-      <br>React
+      <br>Flutter
     </td> 
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40"/>
       </a>
-      <br>Bootstrap
+      <br>Dart
 </td> 
 <!--      <td align="center" width="96">
       <a>
