@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="[https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg](https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png)" width="40"/>
+        <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="40"/>
       </a>
       <br>Javascript
     </td>
