@@ -33,7 +33,7 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://iconscout.com/icon/python-3521655" width="40"/>
       </a>
       <br>Python
     </td>
