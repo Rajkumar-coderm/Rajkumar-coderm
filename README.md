@@ -63,13 +63,13 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="40"/>
       </a>
       <br>CSS
     </td>
