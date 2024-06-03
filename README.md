@@ -131,4 +131,5 @@
 	<a href="linkedin.com/in/rajkumar-gahane-4354021b7"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/i.rajkumargahane/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/RajkumarGahane?t=7p4vHTozT2tDbWNempsAvA&s=08"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+919168716592"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp" /></a>
 </p>
