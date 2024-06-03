@@ -130,5 +130,5 @@
 	<a href="https://www.facebook.com/rajkumar.gahane2001"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	<a href="linkedin.com/in/rajkumar-gahane-4354021b7"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/i.rajkumargahane/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/RajkumarGahane?t=7p4vHTozT2tDbWNempsAvA&s=08"><img src="https://w7.pngwing.com/pngs/14/892/png-transparent-telegram-apps-platform-apps-icon.png" alt="Twitter" height=50 width=50/></a>
+	<a href="https://twitter.com/RajkumarGahane?t=7p4vHTozT2tDbWNempsAvA&s=08"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter" /></a>
 </p>
