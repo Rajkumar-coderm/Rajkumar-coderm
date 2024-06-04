@@ -12,16 +12,15 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Rajkumar Gahane*** or ***TeamWorker*** 😊 <br>
-<!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
+✔ 🔭 I’m currently working With [3Embed Software Technologies Pvt. Ltd.](https://github.com/navgurukul/sansaar)<br>
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/Rajkumar-coderm](https://github.com/Rajkumar-coderm)<br>
-<!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
 ✔ 📫 How to reach me **rajkumar20@navgurukul.org**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar-coderm&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar-coderm&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+<img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkumar-coderm&bg_color=0d0c0d&color=f4ecf3&line=ebeaeb&point=e9e7e7&area=true&hide_border=true" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
