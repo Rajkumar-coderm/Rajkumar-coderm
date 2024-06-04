@@ -74,7 +74,7 @@
     </td>
 <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" width="40"/>
       </a>
       <br>Flutter
     </td> 
