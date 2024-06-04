@@ -12,7 +12,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Rajkumar Gahane*** or ***TeamWorker*** 😊 <br>
-✔ 🔭 I’m currently working With [3Embed Software Technologies Pvt. Ltd.](https://github.com/navgurukul/sansaar)<br>
+✔ 🔭 I’m currently working With [3Embed Software Technologies Pvt. Ltd.](https://appscrip.com)<br>
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/Rajkumar-coderm](https://github.com/Rajkumar-coderm)<br>
 ✔ 📫 How to reach me **rajkumar20@navgurukul.org**<br>
@@ -99,29 +99,6 @@
   </tr>
 </table>
 <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
-><i>Click on ICON to preview.</i>
-<br>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank" href="https://anand18.firebaseapp.com/">
-        <img src="https://scontent-del1-2.xx.fbcdn.net/v/t31.18172-8/14707959_1225843714154396_7300987834643196205_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-G5l1TMDRoIAX-elA1u&tn=M_MTfS5gMQXuZKDe&_nc_ht=scontent-del1-2.xx&oh=c9eb5c315f52f2c10758e4e55e3ed858&oe=616924BD" width="40"/>
-      </a>
-      <br>NavgurukulLite
-	</td>
-      <td align="center" width="96">
-      <a target="_blank" href="http://anand-zomato-api.glitch.me/search_data">
-        <img src="https://seeklogo.com/images/Z/zomato-logo-200607EC4C-seeklogo.com.png" width="40"/>
-      </a>
-      <br>Zomato
-	</td>
-  </tr>
-</table>
-<br> -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
